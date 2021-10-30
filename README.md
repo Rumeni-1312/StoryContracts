@@ -2,11 +2,11 @@
 
 # Story
 
-Story is an autonomous yield and liquidity generation protocol. Simply hold Story in your wallet and you will get more. On each transaction has a tax - the protocol automatically distributes 5% rewards to holders as well as locks 5% to liquidity forever.
+$STORY is the token fueling its charity platform called STORY. 
+Story provides anyone, anywhere with the opportunity to share a story in a video no longer than 60 seconds about someone they know is deserving of some community support
 
 ## Each transaction:
-* 5% Rewards to hodlers.
-* 5% locked into liquidity.
+* 0% Tax
 
 ## Built on the Binance Smart Chain (BSC)
 
